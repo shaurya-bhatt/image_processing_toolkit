@@ -14,10 +14,10 @@ A simple Python project that demonstrates basic image processing operations such
 ![Original](image.jpeg)
 
 ### Grayscale Output
-![Grayscale](grayscale_output.jpeg)
+![Grayscale](grayscale.jpeg)
 
 ### Blurred Output
-![Blurred](blur_output.jpeg)
+![Blurred](blur.jpeg)
 
 ## Technologies Used
 
