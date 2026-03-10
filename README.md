@@ -19,6 +19,9 @@ A simple Python project that demonstrates basic image processing operations such
 ### Blurred Output
 ![Blurred](blur.jpeg)
 
+### Edge Detection Output
+![Edge](edges.jpeg)
+
 ## Technologies Used
 
 * Python
@@ -63,7 +66,6 @@ This project was created to understand how digital images can be represented as 
 
 ## Future Improvements
 
-* Add edge detection
 * Implement additional filters
 * Support multiple image formats
 
