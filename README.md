@@ -1,11 +1,12 @@
 # Image Processing Toolkit
 
-A simple Python project that demonstrates basic image processing operations such as grayscale conversion and image blurring using numerical array manipulation.
+A simple Python project that demonstrates basic image processing operations such as grayscale conversion, image blurring and edge detection using numerical array manipulation.
 
 ## Features
 
 * Convert images to **grayscale**
 * Apply **blur filters** to smooth images
+* Perform **edge detection** to highlight boundaries and important structures in the image
 * Understand how images are represented as **pixel arrays**
 
 ## Example Results
