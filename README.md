@@ -8,6 +8,17 @@ A simple Python project that demonstrates basic image processing operations such
 * Apply **blur filters** to smooth images
 * Understand how images are represented as **pixel arrays**
 
+## Example Results
+
+### Original Image
+![Original](image.jpeg)
+
+### Grayscale Output
+![Grayscale](grayscale_output.jpeg)
+
+### Blurred Output
+![Blurred](blur_output.jpeg)
+
 ## Technologies Used
 
 * Python
