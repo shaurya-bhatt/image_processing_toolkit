@@ -31,15 +31,20 @@ A simple Python project that demonstrates basic image processing operations such
 
 ## Project Structure
 
-```
+'''
 image_processing_toolkit/
 │
 ├── main.py
 ├── grayscale.py
 ├── blur.py
+├── edge.py
 ├── utils.py
-└── image.jpg
-```
+├── image.jpeg
+├── grayscale_output.jpeg
+├── blur_output.jpeg
+├── edge_output.jpeg
+└── README.md
+'''
 
 ## How to Run
 
