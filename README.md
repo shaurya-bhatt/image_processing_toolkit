@@ -31,7 +31,6 @@ A simple Python project that demonstrates basic image processing operations such
 
 ## Project Structure
 
-'''
 image_processing_toolkit/
 │
 ├── main.py
@@ -44,7 +43,6 @@ image_processing_toolkit/
 ├── blur_output.jpeg
 ├── edge_output.jpeg
 └── README.md
-'''
 
 ## How to Run
 
